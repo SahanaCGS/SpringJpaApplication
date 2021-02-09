@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Feb 09 16:39:35 IST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0177-867b-7ae9-000010823e00 
+on database directory memory:/home/sahana/Downloads/SpringJpaApplication/4b24b22f-77e0-4001-b221-f1e1bb8298d2 with class loader sun.misc.Launcher$AppClassLoader@3d4eac69 
+Loaded from file:/home/sahana/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_275-8u275-b01-0ubuntu1~16.04-b01
+user.dir=/home/sahana/Downloads/SpringJpaApplication
+os.name=Linux
+os.arch=amd64
+os.version=4.15.0-133-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
